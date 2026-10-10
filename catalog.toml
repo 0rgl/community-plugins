@@ -3571,3 +3571,29 @@ icon = "stack-2"
 description = "A drop shelf for files: drag files in, keep them handy, and drag them out into any app later."
 plugin_api = 24
 tags = ["bar", "panel", "service", "productivity", "utility", "hyprland"]
+
+[[plugin]]
+id = "mahmoudomiesh/network-monitor"
+name = "Network Monitor"
+version = "2.0.0"
+updated_at = 1791661136
+added_at = 1791661136
+author = "Mahmoud Omiesh"
+license = "MIT"
+icon = "network"
+description = "Network speed and listening ports, with quick actions to open a port or stop its process."
+plugin_api = 26
+tags = ["bar", "panel", "service", "network", "development", "indicator"]
+
+[[plugin]]
+id = "yangkx/usbeehive"
+name = "usbeehive"
+version = "0.1.1"
+updated_at = 1791661122
+added_at = 1791661122
+author = "yangkx"
+license = "MIT"
+icon = "usb"
+description = "Connected USB devices and USB-C charging wattage, via usbeehive."
+plugin_api = 24
+tags = ["bar", "panel", "service", "hardware", "indicator"]
