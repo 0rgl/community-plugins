@@ -3558,3 +3558,16 @@ icon = "container"
 description = "List Docker and Podman containers plus host services with a web UI, and open them in your browser."
 plugin_api = 9
 tags = ["utility", "service", "system"]
+
+[[plugin]]
+id = "alok-debnath/shelf"
+name = "Shelf"
+version = "1.2.2"
+updated_at = 1791660761
+added_at = 1791660761
+author = "alok-debnath"
+license = "MIT"
+icon = "stack-2"
+description = "A drop shelf for files: drag files in, keep them handy, and drag them out into any app later."
+plugin_api = 24
+tags = ["bar", "panel", "service", "productivity", "utility", "hyprland"]
