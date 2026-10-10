@@ -215,6 +215,7 @@ body:
         - screen-toolkit
         - share-wifi
         - sharednd
+        - shelf
         - shell-command
         - shelly
         - sing-box-status
