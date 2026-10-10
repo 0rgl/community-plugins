@@ -151,6 +151,7 @@ body:
         - nan-usage
         - ncs-visualizer
         - network-control
+        - network-monitor
         - network-toolkit
         - nextboot-selector
         - nightscout-monitor
@@ -253,6 +254,7 @@ body:
         - umbriel-monitor-control
         - undershell
         - upbeat
+        - usbeehive
         - vial_keymap
         - vidi
         - vietnamese-lunar-calendar
