@@ -3545,3 +3545,16 @@ icon = "music"
 description = "Displays the media player status as a single icon."
 plugin_api = 24
 tags = ["bar", "audio", "indicator"]
+
+[[plugin]]
+id = "davinci13/containers"
+name = "Containers"
+version = "1.2.0"
+updated_at = 1791660524
+added_at = 1791660524
+author = "daVinci13"
+license = "MIT"
+icon = "container"
+description = "List Docker and Podman containers plus host services with a web UI, and open them in your browser."
+plugin_api = 9
+tags = ["utility", "service", "system"]
