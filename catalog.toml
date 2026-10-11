@@ -3419,8 +3419,8 @@ tags = ["bar", "panel", "service", "network", "utility", "development"]
 [[plugin]]
 id = "ayagmar/headroom"
 name = "Headroom"
-version = "0.2.0"
-updated_at = 1791594586
+version = "0.2.1"
+updated_at = 1791760936
 added_at = 1791375801
 author = "ayagmar"
 license = "MIT"
