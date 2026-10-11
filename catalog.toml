@@ -3610,3 +3610,16 @@ icon = "flag"
 description = "Next-race countdown, schedule, circuit map, live timing and standings for Formula 1."
 plugin_api = 31
 tags = ["bar", "panel", "indicator", "countdown"]
+
+[[plugin]]
+id = "tordex/xwayland"
+name = "XWayland Indicator"
+version = "1.0.0"
+updated_at = 1791761127
+added_at = 1791761127
+author = "tordex"
+license = "MIT"
+icon = "circle-letter-x"
+description = "Indicator showing whether the active window is using XWayland in Umbriel"
+plugin_api = 28
+tags = ["umbriel", "bar", "utility"]
