@@ -3597,3 +3597,16 @@ icon = "usb"
 description = "Connected USB devices and USB-C charging wattage, via usbeehive."
 plugin_api = 24
 tags = ["bar", "panel", "service", "hardware", "indicator"]
+
+[[plugin]]
+id = "gcap0n1/f1"
+name = "Formula 1"
+version = "0.1.0"
+updated_at = 1791760792
+added_at = 1791760792
+author = "gcap0n1"
+license = "MIT"
+icon = "flag"
+description = "Next-race countdown, schedule, circuit map, live timing and standings for Formula 1."
+plugin_api = 31
+tags = ["bar", "panel", "indicator", "countdown"]
