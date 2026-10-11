@@ -275,6 +275,7 @@ body:
         - wireview-pro-ii
         - wl-screen-mirror
         - world-radio
+        - xwayland
         - youtube-search
         - yt-music
         - zed-provider
