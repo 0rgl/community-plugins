@@ -3636,3 +3636,16 @@ icon = "bolt"
 description = "Neuralwatt energy usage in kWh, subscription and balance on the bar, with a model catalog panel."
 plugin_api = 22
 tags = ["bar", "panel", "service", "ai", "indicator", "productivity"]
+
+[[plugin]]
+id = "abuamar142/qr-share"
+name = "QR Share"
+version = "1.0.0"
+updated_at = 1791849442
+added_at = 1791849442
+author = "abuamar142"
+license = "MIT"
+icon = "qrcode"
+description = "Wi-Fi and clipboard QR codes in one panel, ready to scan from your phone."
+plugin_api = 24
+tags = ["panel", "network", "privacy", "utility"]
