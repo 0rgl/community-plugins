@@ -201,6 +201,7 @@ body:
         - profile-switcher
         - proton-pass
         - pulsar-mouse
+        - qr-share
         - qrcode
         - quill
         - quranwidget
