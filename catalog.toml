@@ -3105,8 +3105,8 @@ tags = ["bar", "media", "panel", "service"]
 [[plugin]]
 id = "notoxus/vietnamese-lunar-calendar"
 name = "Vietnamese Lunar Calendar"
-version = "1.0.0"
-updated_at = 1790341835
+version = "1.1.0"
+updated_at = 1791849758
 added_at = 1790341835
 author = "notoxus"
 license = "MIT"
