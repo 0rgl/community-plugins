@@ -3105,15 +3105,15 @@ tags = ["bar", "media", "panel", "service"]
 [[plugin]]
 id = "notoxus/vietnamese-lunar-calendar"
 name = "Vietnamese Lunar Calendar"
-version = "1.1.0"
-updated_at = 1791849758
+version = "1.1.1"
+updated_at = 1791895114
 added_at = 1790341835
 author = "notoxus"
 license = "MIT"
 icon = "moon-stars"
 description = "Vietnamese lunar calendar with lunar dates, Can Chi and traditional festivals."
 plugin_api = 22
-tags = ["panel", "shortcut", "bar", "time", "utility"]
+tags = ["panel", "shortcut", "bar", "desktop", "time", "utility"]
 
 [[plugin]]
 id = "teagar/niri-workspace-preview"
@@ -3640,8 +3640,8 @@ tags = ["bar", "panel", "service", "ai", "indicator", "productivity"]
 [[plugin]]
 id = "abuamar142/qr-share"
 name = "QR Share"
-version = "1.0.0"
-updated_at = 1791849442
+version = "1.0.1"
+updated_at = 1791895092
 added_at = 1791849442
 author = "abuamar142"
 license = "MIT"
