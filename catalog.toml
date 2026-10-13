@@ -2560,8 +2560,8 @@ tags = ["bar", "panel", "service", "development", "productivity", "utility", "ne
 [[plugin]]
 id = "samuelskovbakke/calculator-plus"
 name = "Calculator Plus"
-version = "1.0.0"
-updated_at = 1789149960
+version = "1.0.1"
+updated_at = 1791921008
 added_at = 1789149960
 author = "samuelskovbakke"
 license = "MIT"
