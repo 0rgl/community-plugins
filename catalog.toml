@@ -3649,3 +3649,16 @@ icon = "qrcode"
 description = "Wi-Fi and clipboard QR codes in one panel, ready to scan from your phone."
 plugin_api = 24
 tags = ["panel", "network", "privacy", "utility"]
+
+[[plugin]]
+id = "vinioli/openvpn3"
+name = "OpenVPN 3"
+version = "1.0.0"
+updated_at = 1791921361
+added_at = 1791921361
+author = "vinioli"
+license = "MIT"
+icon = "shield-lock"
+description = "Import profiles, connect, answer password and OTP prompts and monitor OpenVPN 3 Linux client sessions."
+plugin_api = 24
+tags = ["bar", "panel", "service", "shortcut", "network", "privacy", "indicator"]
