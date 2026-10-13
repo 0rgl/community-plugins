@@ -2016,8 +2016,8 @@ tags = ["bar", "indicator", "network", "privacy", "shortcut"]
 [[plugin]]
 id = "notfinaldev/web-search"
 name = "Web Search"
-version = "1.4.0"
-updated_at = 1789150408
+version = "1.4.1"
+updated_at = 1791921263
 added_at = 1788121066
 author = "notfinaldev"
 license = "MIT"
