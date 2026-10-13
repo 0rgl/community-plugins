@@ -181,6 +181,7 @@ body:
         - opencode-companion
         - opencode-go-usage
         - opencodex-bar
+        - openvpn3
         - opnsense
         - oppo-pods
         - owntone-control
