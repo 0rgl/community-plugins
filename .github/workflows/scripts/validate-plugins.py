@@ -132,6 +132,7 @@ SETTING_TYPES = {
 }
 PANEL_PLACEMENTS = {"attached", "floating"}
 PANEL_KEYBOARD_FOCUS = {"on_demand", "exclusive", "none"}
+PANEL_LAYERS = {"top", "overlay"}
 WIDGET_GESTURES = {
     "left",
     "right",
@@ -171,6 +172,7 @@ ENTRY_FIELDS = {
         "height",
         "placement",
         "position",
+        "layer",
         "open_near_click",
         "dismiss_on_outside_click",
         "keyboard_focus",
@@ -776,6 +778,13 @@ class Validator:
 
         if "open_near_click" in entry and not isinstance(entry["open_near_click"], bool):
             self.add_context_error(manifest_path, context, "open_near_click must be a bool")
+
+        if "layer" in entry:
+            if not is_int(plugin_api) or plugin_api < 30:
+                self.add_context_error(manifest_path, context, "layer requires plugin_api >= 30")
+            elif not isinstance(entry["layer"], str) or entry["layer"] not in PANEL_LAYERS:
+                valid = ", ".join(sorted(PANEL_LAYERS))
+                self.add_context_error(manifest_path, context, f"layer must be one of: {valid}")
 
         if "dismiss_on_outside_click" in entry:
             if not is_int(plugin_api) or plugin_api < 8:
