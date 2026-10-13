@@ -1659,8 +1659,8 @@ rev = "c27ede7964798534b76405ad50f5b114e453034b"
 [[plugin]]
 id = "yugaaank/better-clock"
 name = "Better Clock"
-version = "1.0.0"
-updated_at = 1787152728
+version = "1.0.1"
+updated_at = 1791921687
 added_at = 1787152728
 author = "yugaaank"
 license = "MIT"
