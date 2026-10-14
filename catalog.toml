@@ -3688,3 +3688,16 @@ icon = "plug-connected"
 description = "Live UPS status from pwrstat or NUT on your desktop."
 plugin_api = 29
 tags = ["desktop", "bar", "panel", "service", "hardware", "system", "indicator"]
+
+[[plugin]]
+id = "nickh/maildir"
+name = "Maildir"
+version = "0.0.3"
+updated_at = 1792012082
+added_at = 1792012082
+author = "Nick Hastings"
+license = "MIT"
+icon = "mail"
+description = "New mail widget"
+plugin_api = 3
+tags = ["bar"]
