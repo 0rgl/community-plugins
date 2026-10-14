@@ -251,6 +251,7 @@ body:
         - timezone-hub
         - tmux-provider
         - todo
+        - todoist
         - topgrade-wrapper
         - udiskie
         - um5606_fan_state
