@@ -138,6 +138,7 @@ body:
         - lunar-calendar
         - lunar-workspaces
         - lyrics
+        - maildir
         - mango-displays
         - mango_layouts
         - mangowm-keymode
