@@ -3262,8 +3262,8 @@ tags = ["bar", "panel", "indicator", "ai", "countdown"]
 [[plugin]]
 id = "lfdominguez/claude-sessions"
 name = "Claude Sessions"
-version = "1.5.3"
-updated_at = 1791667881
+version = "1.5.4"
+updated_at = 1792011352
 added_at = 1790894453
 author = "lfdominguez"
 license = "MIT"
