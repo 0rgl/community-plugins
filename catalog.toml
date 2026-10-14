@@ -2950,8 +2950,8 @@ tags = ["bar", "panel", "service", "audio", "media", "utility"]
 [[plugin]]
 id = "theblackdon/theme-switcher"
 name = "Theme Switcher"
-version = "0.1.0"
-updated_at = 1790079299
+version = "0.2.0"
+updated_at = 1792011689
 added_at = 1790079299
 author = "theblackdon"
 license = "MIT"
@@ -3675,3 +3675,16 @@ icon = "checkbox"
 description = "Bar widget with your overdue and due-today Todoist task count, and upcoming tasks in the tooltip."
 plugin_api = 32
 tags = ["bar", "productivity", "indicator"]
+
+[[plugin]]
+id = "cutecaption/cutemonitor-ups"
+name = "CuteMonitor — UPS Status"
+version = "0.1.0"
+updated_at = 1792011661
+added_at = 1792011661
+author = "cutecaption"
+license = "MIT"
+icon = "plug-connected"
+description = "Live UPS status from pwrstat or NUT on your desktop."
+plugin_api = 29
+tags = ["desktop", "bar", "panel", "service", "hardware", "system", "indicator"]
