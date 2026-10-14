@@ -192,6 +192,7 @@ body:
         - pass
         - phone-connect
         - phone-operate
+        - pixel-buds
         - pixel-shift
         - podcasts
         - pomodoro
