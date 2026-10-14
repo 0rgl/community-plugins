@@ -3701,3 +3701,16 @@ icon = "mail"
 description = "New mail widget"
 plugin_api = 3
 tags = ["bar"]
+
+[[plugin]]
+id = "finoo125/pixel-buds"
+name = "Pixel Buds"
+version = "1.0.0"
+updated_at = 1792017197
+added_at = 1792017197
+author = "finoo125"
+license = "MIT"
+icon = "headphones"
+description = "Google Pixel Buds battery, noise control, EQ and settings in the bar via pbpctrl; battery only on non-Pro models."
+plugin_api = 24
+tags = ["audio", "bar", "panel", "service", "hardware", "indicator"]
