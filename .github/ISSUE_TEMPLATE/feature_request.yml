@@ -286,6 +286,7 @@ body:
         - xwayland
         - youtube-search
         - yt-music
+        - zakker
         - zed-provider
 
     validations:
