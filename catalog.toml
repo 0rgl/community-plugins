@@ -1672,8 +1672,8 @@ tags = ["desktop", "clock", "time", "utility"]
 [[plugin]]
 id = "icefish/phone-operate"
 name = "Phone Operate"
-version = "1.0.1"
-updated_at = 1789142615
+version = "1.0.2"
+updated_at = 1792067725
 added_at = 1787152852
 author = "icefish"
 license = "MIT"
@@ -2230,15 +2230,21 @@ tags = ["desktop", "utility"]
 [[plugin]]
 id = "ashur-d/nvim-projects"
 name = "Neovim Projects"
-version = "1.0.1"
-updated_at = 1788657365
+version = "1.1.0"
+updated_at = 1792067710
 added_at = 1788572460
 author = "Ashur-D"
 license = "MIT"
 icon = "folder-open"
 description = "Quickly search and open recent Neovim projects. Type /nvim in the launcher."
-plugin_api = 3
+plugin_api = 24
 tags = ["launcher", "development", "productivity"]
+
+[[plugin.release]]
+plugin_api = 3
+version = "1.0.1"
+updated_at = 1788657365
+rev = "ccf105664ca887d51252abf17d7fe031867f13fe"
 
 [[plugin]]
 id = "osp54/oppo-pods"
