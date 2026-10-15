@@ -189,6 +189,7 @@ body:
         - owntone-control
         - paged-todo
         - palette-creator
+        - palettes
         - pass
         - phone-connect
         - phone-operate
