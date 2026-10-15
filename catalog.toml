@@ -3733,3 +3733,16 @@ icon = "palette"
 description = "Create, manage and copy colors from local palettes or builtin picks from the community."
 plugin_api = 9
 tags = ["development", "panel", "theming", "utility"]
+
+[[plugin]]
+id = "mohammednaser28/zakker"
+name = "Zakker"
+version = "0.1.0"
+updated_at = 1792067971
+added_at = 1792067971
+author = "MohammedNaser28"
+license = "MIT"
+icon = "moon"
+description = "Periodic salawat upon the Prophet and azkar reminders via shell notifications."
+plugin_api = 22
+tags = ["bar", "launcher", "service", "shortcut", "time"]
