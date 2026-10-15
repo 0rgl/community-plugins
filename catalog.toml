@@ -3720,3 +3720,16 @@ icon = "headphones"
 description = "Google Pixel Buds battery, noise control, EQ and settings in the bar via pbpctrl; battery only on non-Pro models."
 plugin_api = 24
 tags = ["audio", "bar", "panel", "service", "hardware", "indicator"]
+
+[[plugin]]
+id = "soul/palettes"
+name = "Palettes"
+version = "1.0.0"
+updated_at = 1792067883
+added_at = 1792067883
+author = "soul"
+license = "MIT"
+icon = "palette"
+description = "Create, manage and copy colors from local palettes or builtin picks from the community."
+plugin_api = 9
+tags = ["development", "panel", "theming", "utility"]
