@@ -2146,8 +2146,8 @@ tags = ["utility", "indicator", "network", "panel", "bar"]
 [[plugin]]
 id = "rylos/remmina"
 name = "Remmina"
-version = "1.0.0"
-updated_at = 1788317461
+version = "1.0.1"
+updated_at = 1792109454
 added_at = 1788317461
 author = "Marco Ziliani"
 license = "MIT"
