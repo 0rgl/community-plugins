@@ -3229,8 +3229,8 @@ tags = ["bar", "desktop", "panel", "service", "utility", "wallpaper"]
 [[plugin]]
 id = "zhangdm/als-brightness"
 name = "ALS Brightness"
-version = "0.6.0"
-updated_at = 1791760877
+version = "0.7.0"
+updated_at = 1792156935
 added_at = 1790805024
 author = "zhangdm"
 license = "MIT"
