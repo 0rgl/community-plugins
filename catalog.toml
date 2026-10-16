@@ -3672,8 +3672,8 @@ tags = ["bar", "panel", "service", "shortcut", "network", "privacy", "indicator"
 [[plugin]]
 id = "turja-roy/todoist"
 name = "Todoist"
-version = "1.0.0"
-updated_at = 1792011096
+version = "1.1.0"
+updated_at = 1792153393
 added_at = 1792011096
 author = "turja-roy"
 license = "MIT"
