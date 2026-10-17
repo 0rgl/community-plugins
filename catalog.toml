@@ -3633,8 +3633,8 @@ tags = ["umbriel", "bar", "utility"]
 [[plugin]]
 id = "omertahaoztop/neuralwatt"
 name = "Neuralwatt"
-version = "1.0.0"
-updated_at = 1791809402
+version = "1.0.1"
+updated_at = 1792265715
 added_at = 1791809402
 author = "omertahaoztop"
 license = "MIT"
