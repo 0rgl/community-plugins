@@ -3772,3 +3772,16 @@ icon = "radio-2"
 description = "Play WFMU live streams and the latest archived show of every WFMU show."
 plugin_api = 32
 tags = ["music", "media", "bar", "panel"]
+
+[[plugin]]
+id = "dmopp/keychron-battery"
+name = "Keychron Battery"
+version = "1.0.0"
+updated_at = 1792243561
+added_at = 1792243561
+author = "dMopp"
+license = "MIT"
+icon = "mouse"
+description = "Battery of Keychron mice in the bar, with low-battery notifications. Needs keychron-battery-dkms for receiver and cable."
+plugin_api = 24
+tags = ["bar", "panel", "service", "hardware", "indicator"]
