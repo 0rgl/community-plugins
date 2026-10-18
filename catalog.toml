@@ -3797,3 +3797,16 @@ icon = "mouse"
 description = "Battery of Keychron mice in the bar, with low-battery notifications. Needs keychron-battery-dkms for receiver and cable."
 plugin_api = 24
 tags = ["bar", "panel", "service", "hardware", "indicator"]
+
+[[plugin]]
+id = "teslaoruz/bloom"
+name = "Bloom"
+version = "1.0.0"
+updated_at = 1792288063
+added_at = 1792288063
+author = "teslaoruz"
+license = "MIT"
+icon = "flower"
+description = "Claude Code on your bar: a spinner while it works, the real /status limits, live sessions, last 7 days."
+plugin_api = 32
+tags = ["ai", "development", "indicator", "bar", "panel", "niri"]
