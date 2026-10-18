@@ -534,8 +534,8 @@ rev = "7cc2a499e6d90b4f756a606bfaf38f014a465956"
 [[plugin]]
 id = "gustav0ar/drive-health"
 name = "Drive Health"
-version = "1.2.7"
-updated_at = 1791165669
+version = "1.2.8"
+updated_at = 1792347162
 added_at = 1784646878
 author = "Drive Health contributors"
 license = "MIT"
