@@ -92,15 +92,21 @@ tags = ["bar", "mangowc"]
 [[plugin]]
 id = "oldirtty/color_picker"
 name = "Color Picker"
-version = "1.0.6"
-updated_at = 1787609577
+version = "1.0.7"
+updated_at = 1792287751
 added_at = 1784086957
 author = "oldirtty"
 license = "MIT"
 icon = "palette"
 description = "Pick a color from your screen with hyprpicker."
-plugin_api = 9
+plugin_api = 26
 tags = ["theming", "utility", "bar", "panel"]
+
+[[plugin.release]]
+plugin_api = 9
+version = "1.0.6"
+updated_at = 1787609577
+rev = "030d253751fac08da2f9d8e46fb69ff65876bbf4"
 
 [[plugin.release]]
 plugin_api = 3
