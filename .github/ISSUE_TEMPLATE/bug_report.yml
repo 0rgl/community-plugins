@@ -54,6 +54,7 @@ body:
         - beeminder
         - better-clock
         - bitdjinn
+        - bloom
         - bookmarks
         - calculator
         - calculator-plus
