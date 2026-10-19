@@ -176,6 +176,7 @@ body:
         - noctwhspr
         - nvim-projects
         - nvtop
+        - nwg-displays
         - obs-control
         - obs-integration
         - obsidian
