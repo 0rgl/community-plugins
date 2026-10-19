@@ -3810,3 +3810,16 @@ icon = "flower"
 description = "Claude Code on your bar: a spinner while it works, the real /status limits, live sessions, last 7 days."
 plugin_api = 32
 tags = ["ai", "development", "indicator", "bar", "panel", "niri"]
+
+[[plugin]]
+id = "micahg/nwg-displays"
+name = "NWG Display Profiles"
+version = "1.0.0"
+updated_at = 1792417513
+added_at = 1792417513
+author = "micahg"
+license = "MIT"
+icon = "device-desktop"
+description = "Switch nwg-displays display profiles from the bar, a panel, or the launcher."
+plugin_api = 26
+tags = ["bar", "panel", "launcher", "hyprland", "utility"]
