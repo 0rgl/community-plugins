@@ -592,8 +592,8 @@ tags = ["utility", "hyprland"]
 [[plugin]]
 id = "thepunkoff/pomodoro"
 name = "Pomodoro Timer"
-version = "1.3.0"
-updated_at = 1788385923
+version = "1.4.0"
+updated_at = 1792417460
 added_at = 1784728810
 author = "thepunkoff"
 license = "MIT"
