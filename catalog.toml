@@ -3775,8 +3775,8 @@ tags = ["gaming", "system", "utility"]
 [[plugin]]
 id = "quaversa/wfmu"
 name = "WFMU"
-version = "1.0.0"
-updated_at = 1792183243
+version = "1.0.1"
+updated_at = 1792417283
 added_at = 1792183243
 author = "quaversa"
 license = "MIT"
