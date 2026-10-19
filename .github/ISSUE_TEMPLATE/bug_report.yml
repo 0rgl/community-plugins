@@ -240,6 +240,7 @@ body:
         - spotify-lyrics
         - spotify-media
         - ssh-launcher
+        - stdout
         - sticky-notes
         - super-productivity
         - sway-mode
