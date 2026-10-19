@@ -3836,3 +3836,16 @@ icon = "terminal"
 description = "Run a command periodically and display its output as bar widget text"
 plugin_api = 28
 tags = ["utility", "indicator", "bar", "system"]
+
+[[plugin]]
+id = "ayagmar/binance"
+name = "Binance"
+version = "0.1.0"
+updated_at = 1792417965
+added_at = 1792417965
+author = "ayagmar"
+license = "MIT"
+icon = "currency-bitcoin"
+description = "Your Binance portfolio, Binance Stocks, a watchlist and price alerts, with a read-only key kept in your keyring."
+plugin_api = 32
+tags = ["bar", "panel", "service", "launcher", "desktop", "indicator", "privacy"]
