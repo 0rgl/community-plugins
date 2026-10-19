@@ -3823,3 +3823,16 @@ icon = "device-desktop"
 description = "Switch nwg-displays display profiles from the bar, a panel, or the launcher."
 plugin_api = 26
 tags = ["bar", "panel", "launcher", "hyprland", "utility"]
+
+[[plugin]]
+id = "tordex/stdout"
+name = "stdout"
+version = "1.0.0"
+updated_at = 1792417636
+added_at = 1792417636
+author = "tordex"
+license = "MIT"
+icon = "terminal"
+description = "Run a command periodically and display its output as bar widget text"
+plugin_api = 28
+tags = ["utility", "indicator", "bar", "system"]
