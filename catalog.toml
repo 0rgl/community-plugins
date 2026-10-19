@@ -3710,8 +3710,8 @@ tags = ["desktop", "bar", "panel", "service", "hardware", "system", "indicator"]
 [[plugin]]
 id = "nickh/maildir"
 name = "Maildir"
-version = "0.0.4"
-updated_at = 1792032253
+version = "0.0.5"
+updated_at = 1792417404
 added_at = 1792012082
 author = "Nick Hastings"
 license = "MIT"
