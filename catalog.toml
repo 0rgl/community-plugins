@@ -3855,3 +3855,16 @@ icon = "currency-bitcoin"
 description = "Your Binance portfolio, Binance Stocks, a watchlist and price alerts, with a read-only key kept in your keyring."
 plugin_api = 32
 tags = ["bar", "panel", "service", "launcher", "desktop", "indicator", "privacy"]
+
+[[plugin]]
+id = "zyrex/nothing-ear"
+name = "Nothing Ear"
+version = "0.1.0"
+updated_at = 1792534252
+added_at = 1792534252
+author = "zyrex"
+license = "MIT"
+icon = "headphones"
+description = "Battery, noise control, EQ and auto mono audio for Nothing and CMF earbuds, controlled directly over Bluetooth."
+plugin_api = 28
+tags = ["audio", "bar", "panel", "desktop", "service", "hardware", "indicator"]
