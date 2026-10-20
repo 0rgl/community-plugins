@@ -2242,8 +2242,8 @@ tags = ["desktop", "utility"]
 [[plugin]]
 id = "ashur-d/nvim-projects"
 name = "Neovim Projects"
-version = "1.1.0"
-updated_at = 1792067710
+version = "1.1.1"
+updated_at = 1792455490
 added_at = 1788572460
 author = "Ashur-D"
 license = "MIT"
@@ -3827,8 +3827,8 @@ tags = ["bar", "panel", "launcher", "hyprland", "utility"]
 [[plugin]]
 id = "tordex/stdout"
 name = "stdout"
-version = "1.0.0"
-updated_at = 1792417636
+version = "1.1.0"
+updated_at = 1792455518
 added_at = 1792417636
 author = "tordex"
 license = "MIT"
