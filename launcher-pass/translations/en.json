@@ -1,7 +1,7 @@
 {
   "action": {
     "autotype": "Autotype login",
-    "autotype-desc": "Type username, password, and OTP in sequence with {backend}",
+    "autotype-desc": "Type username, password, and OTP in sequence",
     "copy-field": "Copy {key}",
     "copy-otp": "Copy OTP",
     "copy-password": "Copy Password",
@@ -28,7 +28,7 @@
     "type-field": "Type {key}",
     "type-otp": "Type OTP",
     "type-password": "Type Password",
-    "type-password-desc": "Type password",
+    "type-password-desc": "Type password using wtype",
     "type-subtitle": "{subtitle} · {backend}",
     "type-username": "Type Username"
   },
@@ -62,7 +62,7 @@
   },
   "settings": {
     "autotype-enabled": {
-      "desc": "Show an Autotype row in an entry's detail view that types the username, a separator key, the password, then the OTP when the entry has one. Needs the selected typing backend",
+      "desc": "Show an Autotype row in an entry's detail view that types the username, a separator key, the password, then the OTP when the entry has one. Needs wtype",
       "label": "Autotype login row"
     },
     "autotype-separator": {
@@ -128,6 +128,10 @@
     "type-delay": {
       "desc": "Delay in milliseconds before typing starts (default: 500)",
       "label": "Type delay"
+    },
+    "wtype-delay": {
+      "desc": "Delay between keystrokes in milliseconds for wtype (default: 12)",
+      "label": "wtype keystroke delay"
     }
   }
 }

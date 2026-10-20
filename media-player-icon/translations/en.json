@@ -5,33 +5,33 @@
     "stream_failed": "Could not start the media player status stream."
   },
   "settings": {
-    "playing_glyph": {
-      "description": "Glyph to display when a media player is playing",
-      "label": "Playing glyph"
-    },
-    "playing_color": {
-      "description": "Color to use for the playing status glyph",
-      "label": "Playing color"
-    },
-    "paused_glyph": {
-      "description": "Glyph to display when a media player is paused",
-      "label": "Paused glyph"
+    "hide_stopped": {
+      "description": "Hide the media player indicator when playback is stopped",
+      "label": "Hide Stopped"
     },
     "paused_color": {
       "description": "Color to use for the paused status glyph",
       "label": "Paused color"
     },
-    "hide_stopped": {
-      "description": "Hide the media player indicator when playback is stopped",
-      "label": "Hide Stopped"
+    "paused_glyph": {
+      "description": "Glyph to display when a media player is paused",
+      "label": "Paused glyph"
     },
-    "stopped_glyph": {
-      "description": "Glyph to display when a media player is stopped",
-      "label": "Stopped glyph"
+    "playing_color": {
+      "description": "Color to use for the playing status glyph",
+      "label": "Playing color"
+    },
+    "playing_glyph": {
+      "description": "Glyph to display when a media player is playing",
+      "label": "Playing glyph"
     },
     "stopped_color": {
       "description": "Color to use for the stopped status glyph",
       "label": "Stopped color"
+    },
+    "stopped_glyph": {
+      "description": "Glyph to display when a media player is stopped",
+      "label": "Stopped glyph"
     }
   }
 }

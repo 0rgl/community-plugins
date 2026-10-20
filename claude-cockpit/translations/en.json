@@ -81,6 +81,14 @@
       "description": "Exchange-rate API get-claude-usage fetches every non-USD rate from.",
       "label": "Currency API URL"
     },
+    "display_mode": {
+      "description": "Classic shows usage percentages. Activity shows one dot per live session (red needs you, accent working, grey idle) and fill rings for the session and weekly limits.",
+      "label": "Display mode",
+      "options": {
+        "activity": "Activity",
+        "classic": "Classic"
+      }
+    },
     "editor_command": {
       "description": "Command to open a CLAUDE.md file. Empty tries \"code\", then \"zed\".",
       "label": "Editor command"
@@ -94,8 +102,8 @@
       "label": "Terminal command"
     },
     "usage_percent_display": {
-      "description": "Which usage windows the bar widget shows, in both modes: the 5-hour session window, the 7-day weekly one, both, or neither. Activity mode draws a ring before each percentage.",
-      "label": "Usage limits shown",
+      "description": "What rides beside the bar glyph: the 5-hour session window, the 7-day weekly one, both, or neither.",
+      "label": "Usage percentage",
       "options": {
         "both": "Both (sNN% wMM%)",
         "none": "Nothing",
@@ -106,14 +114,6 @@
     "usage_refresh_interval": {
       "description": "How often to fetch usage data (minutes).",
       "label": "Usage refresh interval"
-    },
-    "display_mode": {
-      "label": "Display mode",
-      "description": "Classic shows usage percentages. Activity shows one dot per live session (red needs you, accent working, grey idle) and fill rings for the session and weekly limits.",
-      "options": {
-        "classic": "Classic",
-        "activity": "Activity"
-      }
     }
   },
   "settings_tooltip": "Plugin settings",

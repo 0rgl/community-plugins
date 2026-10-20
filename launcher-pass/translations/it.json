@@ -1,7 +1,7 @@
 {
   "action": {
     "autotype": "Digitazione automatica",
-    "autotype-desc": "Digita nome utente, password e OTP in sequenza con {backend}",
+    "autotype-desc": "Digita nome utente, password e OTP in sequenza",
     "copy-field": "Copia {key}",
     "copy-otp": "Copia OTP",
     "copy-password": "Copia password",
@@ -28,7 +28,7 @@
     "type-field": "Digita {key}",
     "type-otp": "Digita OTP",
     "type-password": "Digita password",
-    "type-password-desc": "Digita password",
+    "type-password-desc": "Digita password con wtype",
     "type-subtitle": "{subtitle} · {backend}",
     "type-username": "Digita nome utente"
   },
@@ -62,7 +62,7 @@
   },
   "settings": {
     "autotype-enabled": {
-      "desc": "Mostra una riga «Digitazione automatica» nella vista dettagli di una voce che digita il nome utente, un tasto separatore, la password e poi l'OTP se la voce ne ha uno. Richiede lo strumento di digitazione selezionato",
+      "desc": "Mostra una riga «Digitazione automatica» nella vista dettagli di una voce che digita il nome utente, un tasto separatore, la password e poi l'OTP se la voce ne ha uno. Richiede wtype",
       "label": "Riga di digitazione automatica"
     },
     "autotype-separator": {
@@ -128,6 +128,10 @@
     "type-delay": {
       "desc": "Ritardo in millisecondi prima dell'inizio della digitazione (predefinito: 500)",
       "label": "Ritardo digitazione"
+    },
+    "wtype-delay": {
+      "desc": "Ritardo tra le battiture in millisecondi per wtype (predefinito: 12)",
+      "label": "Ritardo battitura wtype"
     }
   }
 }
