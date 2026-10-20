@@ -3163,8 +3163,8 @@ tags = ["system", "utility"]
 [[plugin]]
 id = "gamaraan/mx-control"
 name = "MX Control"
-version = "0.2.2"
-updated_at = 1790519199
+version = "0.2.3"
+updated_at = 1792499677
 added_at = 1790468021
 author = "gamaraan"
 license = "GPL-2.0-or-later"
@@ -3840,8 +3840,8 @@ tags = ["utility", "indicator", "bar", "system"]
 [[plugin]]
 id = "ayagmar/binance"
 name = "Binance"
-version = "0.1.0"
-updated_at = 1792417965
+version = "0.2.0"
+updated_at = 1792499706
 added_at = 1792417965
 author = "ayagmar"
 license = "MIT"
