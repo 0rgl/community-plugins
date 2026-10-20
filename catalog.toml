@@ -2507,8 +2507,8 @@ tags = ["bar", "desktop", "panel", "service", "animation", "media", "network", "
 [[plugin]]
 id = "prponkshe/umbriel-displays"
 name = "Umbriel Displays"
-version = "1.0.1"
-updated_at = 1790485959
+version = "1.0.2"
+updated_at = 1792531218
 added_at = 1789086907
 author = "prponkshe"
 license = "MIT"
