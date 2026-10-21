@@ -227,6 +227,7 @@ body:
         - rum-updates
         - run-path
         - saved-desktop-widgets
+        - screen-capture
         - screen-toolkit
         - share-wifi
         - sharednd
