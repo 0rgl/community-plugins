@@ -3906,3 +3906,16 @@ icon = "stack-2"
 description = "Compact niri workspace stack with the active workspace's windows as app icons; three display modes."
 plugin_api = 32
 tags = ["bar", "indicator", "niri", "productivity"]
+
+[[plugin]]
+id = "miixz/audio-sticker"
+name = "Audio Reactive Sticker"
+version = "1.0.0"
+updated_at = 1792589793
+added_at = 1792589793
+author = "miixz"
+license = "MIT"
+icon = "photo"
+description = "Desktop sticker that fades in and out with audio playback."
+plugin_api = 24
+tags = ["desktop", "audio", "animation"]
