@@ -824,13 +824,13 @@ tags = ["network", "bar", "panel", "service", "shortcut", "utility", "system", "
 [[plugin]]
 id = "yuuto/arch-updater"
 name = "Arch Updater"
-version = "2.0.3"
-updated_at = 1788468899
+version = "2.1.0"
+updated_at = 1792590457
 added_at = 1785208995
 author = "yuuto"
 license = "MIT"
 icon = "package"
-description = "Check pacman, AUR and Flatpak updates, then upgrade in a terminal or in the background, with run history and rollback."
+description = "Check pacman, AUR and Flatpak updates, upgrade in a terminal or background, with rollback and .pacnew review."
 plugin_api = 9
 tags = ["arch", "bar", "panel", "launcher", "system", "utility"]
 
