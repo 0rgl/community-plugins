@@ -41,6 +41,7 @@ body:
         - asus-fan
         - asus-fans-controller-ec
         - asus-gpu-mode
+        - audio-sticker
         - audio-switcher
         - awwwall
         - ayet-kosesi
