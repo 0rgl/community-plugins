@@ -3071,8 +3071,8 @@ tags = ["bar", "panel", "ai", "indicator", "utility"]
 [[plugin]]
 id = "riversyx/noctaproton-vpn"
 name = "NoctaProton VPN"
-version = "1.0.0"
-updated_at = 1790251619
+version = "1.0.1"
+updated_at = 1792546815
 added_at = 1790251619
 author = "RiverSyx"
 license = "GPL-3.0"
