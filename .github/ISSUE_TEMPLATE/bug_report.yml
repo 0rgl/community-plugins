@@ -169,6 +169,7 @@ body:
         - niri-ribbon
         - niri-rules-studio
         - niri-workspace-preview
+        - niri-workspace-stack
         - nix-monitor
         - nix-search
         - nix-status
