@@ -811,8 +811,8 @@ tags = ["hardware", "utility", "desktop", "panel"]
 [[plugin]]
 id = "cleboost/hotspot"
 name = "Wi-Fi Hotspot"
-version = "1.1.0"
-updated_at = 1786612400
+version = "1.1.1"
+updated_at = 1792588716
 added_at = 1785174978
 author = "Cleboost"
 license = "MIT"
@@ -2519,8 +2519,8 @@ tags = ["bar", "desktop", "panel", "service", "animation", "media", "network", "
 [[plugin]]
 id = "prponkshe/umbriel-displays"
 name = "Umbriel Displays"
-version = "1.0.2"
-updated_at = 1792531218
+version = "1.0.3"
+updated_at = 1792588740
 added_at = 1789086907
 author = "prponkshe"
 license = "MIT"
