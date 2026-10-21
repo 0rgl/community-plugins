@@ -2228,8 +2228,8 @@ tags = ["bar", "panel", "niri", "utility"]
 [[plugin]]
 id = "liamwh/emoji-picker"
 name = "Emoji & Symbol Picker"
-version = "1.2.0"
-updated_at = 1792154981
+version = "1.2.1"
+updated_at = 1792588786
 added_at = 1788473658
 author = "liamwh"
 license = "MIT"
