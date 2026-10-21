@@ -2791,8 +2791,8 @@ tags = ["audio", "music", "network", "panel", "bar", "utility"]
 [[plugin]]
 id = "fel/radio"
 name = "Radio"
-version = "0.1.0"
-updated_at = 1789561453
+version = "0.1.1"
+updated_at = 1792606430
 added_at = 1789561453
 author = "fel"
 license = "MIT"
