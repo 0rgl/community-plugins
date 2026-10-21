@@ -3880,3 +3880,16 @@ icon = "headphones"
 description = "Battery, noise control, EQ and auto mono audio for Nothing and CMF earbuds, controlled directly over Bluetooth."
 plugin_api = 28
 tags = ["audio", "bar", "panel", "desktop", "service", "hardware", "indicator"]
+
+[[plugin]]
+id = "amaurisd97/screen-capture"
+name = "Screen Capture"
+version = "0.1.0"
+updated_at = 1792588666
+added_at = 1792588666
+author = "amaurisd97"
+license = "MIT"
+icon = "video"
+description = "Record the screen, a single window or a region, with webcam and desktop+mic audio."
+plugin_api = 24
+tags = ["recording", "video", "utility"]
