@@ -1147,8 +1147,8 @@ tags = ["utility", "productivity", "bar", "panel"]
 [[plugin]]
 id = "ezequiel/mango_layouts"
 name = "Mango Layouts"
-version = "1.0.0"
-updated_at = 1785788249
+version = "1.0.1"
+updated_at = 1792682998
 added_at = 1785788249
 author = "ezequiel"
 license = "MIT"
