@@ -566,15 +566,15 @@ rev = "ff289e523fb3dca794979dd3476d336642296463"
 [[plugin]]
 id = "kenn/keybind-cheatsheet"
 name = "Keybind Cheatsheet"
-version = "0.3.0"
-updated_at = 1791247508
+version = "0.3.2"
+updated_at = 1792702527
 added_at = 1784677847
 author = "kenn"
 license = "MIT"
 icon = "keyboard"
-description = "Searchable keybindings for Mango, Hyprland, and Niri."
+description = "Searchable keybindings for Mango, Hyprland, and Niri, plus Fcitx5 input-method hotkeys."
 plugin_api = 9
-tags = ["bar", "panel", "utility", "system", "hyprland", "mangowc", "niri"]
+tags = ["bar", "panel", "utility", "system", "language", "hyprland", "mangowc", "niri"]
 
 [[plugin.release]]
 plugin_api = 4
