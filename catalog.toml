@@ -3572,8 +3572,8 @@ tags = ["bar", "panel", "ai", "indicator", "utility"]
 [[plugin]]
 id = "ismay/media-player-icon"
 name = "Media Player Icon"
-version = "1.0.0"
-updated_at = 1791640157
+version = "1.1.0"
+updated_at = 1792681714
 added_at = 1791640157
 author = "ismay"
 license = "MIT"
