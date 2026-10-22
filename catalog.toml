@@ -3780,8 +3780,8 @@ tags = ["bar", "launcher", "service", "shortcut", "time"]
 [[plugin]]
 id = "detluck/performance-plus"
 name = "Performance Plus"
-version = "0.2.1"
-updated_at = 1792618545
+version = "0.2.2"
+updated_at = 1792681873
 added_at = 1792156891
 author = "detluck"
 license = "MIT"
