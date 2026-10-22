@@ -119,6 +119,7 @@ body:
         - ideapad-conservation-mode
         - iio_lock
         - imagemagick-clock
+        - inhibit-idle-while-watching
         - input-echo-bar
         - inventory-manager
         - ip-monitor
@@ -129,6 +130,7 @@ body:
         - keyboard-state
         - keychron-battery
         - keymap
+        - keysmith
         - keyviz
         - kineticwe-layouts
         - kwallet-secrets
