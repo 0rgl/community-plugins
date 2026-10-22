@@ -37,6 +37,10 @@ id distinct from everyone else's, but the **directory name is first-come within 
 taken, pick another name; the official repo is a separate source, so a name used there is not taken here. Both id
 segments must be lowercase and match `[a-z0-9][a-z0-9._-]*`.
 
+Choose a name that describes what your plugin does. Avoid adding `noct`, `nocta`, or `noctalia` just to associate it
+with Noctalia. Plugins are already listed in the Noctalia plugin store, so these prefixes add little information and
+make plugins harder to distinguish.
+
 ## What a plugin is allowed to be
 
 Noctalia plugins are **trusted, unsandboxed Luau**. There is no permission broker and no capability sandbox:
