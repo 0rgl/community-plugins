@@ -261,6 +261,7 @@ body:
         - taildrop
         - tailnet
         - tailscale
+        - task-warrior
         - theme-switcher
         - thinkpad-fan
         - thinkpad-led
