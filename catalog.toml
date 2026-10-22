@@ -3932,3 +3932,29 @@ icon = "coffee"
 description = "One toggle for full stay-awake: Noctalia caffeine (no idle lock/sleep) plus a lid inhibitor (lid close won't suspend)."
 plugin_api = 3
 tags = ["bar", "indicator", "productivity", "service", "shortcut", "system", "utility"]
+
+[[plugin]]
+id = "zhangdm/inhibit-idle-while-watching"
+name = "Inhibit Idle While Watching"
+version = "0.2.0"
+updated_at = 1792691474
+added_at = 1792691474
+author = "zhangdm"
+license = "MIT"
+icon = "camera"
+description = "Checks for a face when idle is about to act and restarts the idle countdown while you keep watching."
+plugin_api = 24
+tags = ["service", "hardware", "privacy", "system", "utility"]
+
+[[plugin]]
+id = "nightwatch75/keysmith"
+name = "keysmith"
+version = "0.1.0"
+updated_at = 1792694825
+added_at = 1792694825
+author = "nightwatch75"
+license = "MIT"
+icon = "key"
+description = "Password, key, htpasswd and JWT tools: a bar glyph opens a tabbed generator and decoder panel."
+plugin_api = 24
+tags = ["bar", "panel", "utility"]
