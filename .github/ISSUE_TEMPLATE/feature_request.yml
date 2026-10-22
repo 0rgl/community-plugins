@@ -247,6 +247,7 @@ body:
         - ssh-launcher
         - stdout
         - sticky-notes
+        - super-caffeine
         - super-productivity
         - sway-mode
         - sway-scratchpad
