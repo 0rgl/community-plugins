@@ -3958,3 +3958,16 @@ icon = "key"
 description = "Password, key, htpasswd and JWT tools: a bar glyph opens a tabbed generator and decoder panel."
 plugin_api = 24
 tags = ["bar", "panel", "utility"]
+
+[[plugin]]
+id = "asj/task-warrior"
+name = "Task Warrior"
+version = "2.0.0"
+updated_at = 1792694899
+added_at = 1792694899
+author = "Anders Doozer"
+license = "MIT"
+icon = "swords"
+description = "Taskwarrior in your bar: see pending and overdue counts, and add, edit, complete or delete tasks."
+plugin_api = 3
+tags = ["bar", "panel", "service", "productivity"]
