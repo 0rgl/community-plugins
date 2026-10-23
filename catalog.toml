@@ -1115,8 +1115,8 @@ tags = ["panel", "fun", "network", "privacy", "productivity", "utility"]
 [[plugin]]
 id = "alexander/screen-toolkit"
 name = "Screen Toolkit"
-version = "1.5.3"
-updated_at = 1791325547
+version = "1.5.4"
+updated_at = 1792768758
 added_at = 1785759728
 author = "alexander"
 license = "MIT"
