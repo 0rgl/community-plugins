@@ -3977,3 +3977,16 @@ icon = "swords"
 description = "Taskwarrior in your bar: see pending and overdue counts, and add, edit, complete or delete tasks."
 plugin_api = 3
 tags = ["bar", "panel", "service", "productivity"]
+
+[[plugin]]
+id = "yusuferdemyamali/quickask"
+name = "QuickAsk"
+version = "0.1.1"
+updated_at = 1792773244
+added_at = 1792773244
+author = "yusuferdemyamali"
+license = "MIT"
+icon = "message-circle"
+description = "A keyboard-first text panel with streaming OpenCode Go responses"
+plugin_api = 24
+tags = ["panel", "ai", "productivity", "hyprland"]
