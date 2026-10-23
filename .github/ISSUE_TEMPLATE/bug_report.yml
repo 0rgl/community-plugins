@@ -274,6 +274,7 @@ body:
         - topgrade-wrapper
         - udiskie
         - um5606_fan_state
+        - umami
         - umbriel-displays
         - umbriel-monitor-control
         - undershell
