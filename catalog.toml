@@ -3990,3 +3990,16 @@ icon = "message-circle"
 description = "A keyboard-first text panel with streaming OpenCode Go responses"
 plugin_api = 24
 tags = ["panel", "ai", "productivity", "hyprland"]
+
+[[plugin]]
+id = "ak4duy/umami"
+name = "Umami"
+version = "1.0.0"
+updated_at = 1792782798
+added_at = 1792782798
+author = "ak4duy"
+license = "MIT"
+icon = "chart-line"
+description = "Live visitor count in the bar and a dashboard of every Umami Analytics website."
+plugin_api = 32
+tags = ["bar", "network", "utility", "indicator"]
