@@ -244,6 +244,7 @@ body:
         - soundcore-buds
         - special-workspaces
         - speedtest-meter
+        - split-reset
         - spotify
         - spotify-lyrics
         - spotify-media
