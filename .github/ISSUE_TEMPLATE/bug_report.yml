@@ -218,6 +218,7 @@ body:
         - pulsar-mouse
         - qr-share
         - qrcode
+        - quickask
         - quill
         - quranwidget
         - radio
