@@ -2532,8 +2532,8 @@ tags = ["bar", "panel", "service", "hardware", "utility", "umbriel"]
 [[plugin]]
 id = "nightwatch75/claude-cockpit"
 name = "Claude Cockpit"
-version = "1.1.1"
-updated_at = 1792681646
+version = "1.1.2"
+updated_at = 1792761483
 added_at = 1789089483
 author = "nightwatch75"
 license = "MIT"
