@@ -4003,3 +4003,16 @@ icon = "chart-line"
 description = "Live visitor count in the bar and a dashboard of every Umami Analytics website."
 plugin_api = 32
 tags = ["bar", "network", "utility", "indicator"]
+
+[[plugin]]
+id = "soulmanyes/split-reset"
+name = "Split Reset"
+version = "1.0.0"
+updated_at = 1792784801
+added_at = 1792784801
+author = "Soulmanyes"
+license = "CC0-1.0"
+icon = "layout-columns"
+description = "One click sets every Hyprland dwindle split on the bar's monitor back to 50/50."
+plugin_api = 34
+tags = ["hyprland", "bar"]
