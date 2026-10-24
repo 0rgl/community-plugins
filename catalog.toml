@@ -2778,8 +2778,8 @@ tags = ["ai", "wallpaper", "desktop"]
 [[plugin]]
 id = "nilsonlinux/world-radio"
 name = "World Radio"
-version = "1.0.5"
-updated_at = 1789608362
+version = "1.0.7"
+updated_at = 1792886179
 added_at = 1789561212
 author = "Nilsonlinux"
 license = "MIT"
