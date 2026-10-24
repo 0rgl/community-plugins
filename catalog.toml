@@ -4016,3 +4016,16 @@ icon = "layout-columns"
 description = "One click sets every Hyprland dwindle split on the bar's monitor back to 50/50."
 plugin_api = 34
 tags = ["hyprland", "bar"]
+
+[[plugin]]
+id = "abuamar142/murattal"
+name = "Murattal"
+version = "0.1.0"
+updated_at = 1792859138
+added_at = 1792859138
+author = "abuamar142"
+license = "MIT"
+icon = "music-note"
+description = "Stream murottal Al-Qur'an per surah and qari from mp3quran.net via mpv."
+plugin_api = 24
+tags = ["bar", "panel", "service", "launcher", "audio", "media", "music"]
