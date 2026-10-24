@@ -4035,3 +4035,16 @@ icon = "music-note"
 description = "Stream murottal Al-Qur'an per surah and qari from mp3quran.net via mpv."
 plugin_api = 24
 tags = ["bar", "panel", "service", "launcher", "audio", "media", "music"]
+
+[[plugin]]
+id = "0rgl/ask-claude"
+name = "Ask Claude"
+version = "0.5.0"
+updated_at = 1792867880
+added_at = 1792867880
+author = "0rgl"
+license = "MIT"
+icon = "sparkles"
+description = "Ask Claude from the launcher (plain text or /ai), read the answer in place, continue in a terminal or multiplexer."
+plugin_api = 24
+tags = ["ai", "launcher", "productivity"]
