@@ -3877,8 +3877,8 @@ tags = ["bar", "panel", "service", "launcher", "desktop", "indicator", "privacy"
 [[plugin]]
 id = "zyrex/nothing-ear"
 name = "Nothing Ear"
-version = "0.1.1"
-updated_at = 1792588827
+version = "0.1.2"
+updated_at = 1792865880
 added_at = 1792534252
 author = "zyrex"
 license = "MIT"
