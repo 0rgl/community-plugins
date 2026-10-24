@@ -241,6 +241,7 @@ body:
         - shelf
         - shell-command
         - shelly
+        - shift
         - sing-box-status
         - sony_headphones
         - soundcore-buds
