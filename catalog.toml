@@ -3948,8 +3948,8 @@ rev = "4d2e9838f756ca4ebe5a599b76e3920f0650ff93"
 [[plugin]]
 id = "zhangdm/inhibit-idle-while-watching"
 name = "Inhibit Idle While Watching"
-version = "0.2.0"
-updated_at = 1792691474
+version = "0.3.0"
+updated_at = 1792866009
 added_at = 1792691474
 author = "zhangdm"
 license = "MIT"
