@@ -3987,13 +3987,13 @@ tags = ["bar", "panel", "service", "productivity"]
 [[plugin]]
 id = "yusuferdemyamali/quickask"
 name = "QuickAsk"
-version = "0.1.1"
-updated_at = 1792773244
+version = "0.2.0"
+updated_at = 1792867069
 added_at = 1792773244
 author = "yusuferdemyamali"
 license = "MIT"
 icon = "message-circle"
-description = "A keyboard-first text panel with streaming OpenCode Go responses"
+description = "A keyboard-first streaming text panel for OpenCode Go and OpenAI-compatible APIs"
 plugin_api = 24
 tags = ["panel", "ai", "productivity", "hyprland"]
 
