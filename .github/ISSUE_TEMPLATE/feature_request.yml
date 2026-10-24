@@ -38,6 +38,7 @@ body:
         - ambient-sounds
         - anilist
         - arch-updater
+        - ask-claude
         - asus-fan
         - asus-fans-controller-ec
         - asus-gpu-mode
