@@ -1,0 +1,20 @@
+{
+  "settings": {
+    "default_volume": {
+      "label": "Default volume",
+      "description": "mpv volume 0-100 used until changed."
+    },
+    "mpv_bin": {
+      "label": "mpv binary",
+      "description": "mpv executable for headless playback."
+    },
+    "show_name": {
+      "label": "Show surah name",
+      "description": "Show current surah next to the icon."
+    },
+    "max_length": {
+      "label": "Max name length",
+      "description": "Max characters of the surah name."
+    }
+  }
+}
