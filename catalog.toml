@@ -2215,8 +2215,8 @@ tags = ["bar", "panel", "service", "launcher", "productivity"]
 [[plugin]]
 id = "setyvii/niri-rules-studio"
 name = "Niri Rules Studio"
-version = "0.1.0"
-updated_at = 1788468778
+version = "0.1.1"
+updated_at = 1792885814
 added_at = 1788468778
 author = "SetyVII"
 license = "MIT"
@@ -4039,8 +4039,8 @@ tags = ["bar", "panel", "service", "launcher", "audio", "media", "music"]
 [[plugin]]
 id = "0rgl/ask-claude"
 name = "Ask Claude"
-version = "0.5.0"
-updated_at = 1792867880
+version = "0.5.1"
+updated_at = 1792885797
 added_at = 1792867880
 author = "0rgl"
 license = "MIT"
