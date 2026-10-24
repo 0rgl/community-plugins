@@ -4061,3 +4061,16 @@ icon = "briefcase"
 description = "Track your work hours: one-click check in/out, smart automation, daily target and overtime balance."
 plugin_api = 32
 tags = ["bar", "panel", "shortcut", "service", "productivity", "time"]
+
+[[plugin]]
+id = "faented/opencode-monitor"
+name = "OpenCode Monitor"
+version = "0.3.0"
+updated_at = 1792885752
+added_at = 1792885752
+author = "faented"
+license = "MIT"
+icon = "robot"
+description = "Read-only live view of local OpenCode sessions: activity, waits, queued prompts, costs, and recent sessions."
+plugin_api = 33
+tags = ["ai", "development", "bar", "panel", "service"]
