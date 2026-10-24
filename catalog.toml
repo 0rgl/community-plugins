@@ -4048,3 +4048,16 @@ icon = "sparkles"
 description = "Ask Claude from the launcher (plain text or /ai), read the answer in place, continue in a terminal or multiplexer."
 plugin_api = 24
 tags = ["ai", "launcher", "productivity"]
+
+[[plugin]]
+id = "hbollon/shift"
+name = "Shift"
+version = "1.0.1"
+updated_at = 1792868307
+added_at = 1792868307
+author = "hbollon"
+license = "MIT"
+icon = "briefcase"
+description = "Track your work hours: one-click check in/out, smart automation, daily target and overtime balance."
+plugin_api = 32
+tags = ["bar", "panel", "shortcut", "service", "productivity", "time"]
