@@ -141,6 +141,7 @@ body:
         - lid-guard
         - link-ip-monitor
         - llamanager
+        - localsend
         - lrc
         - lunar-calendar
         - lunar-workspaces
