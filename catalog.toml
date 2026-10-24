@@ -3031,15 +3031,21 @@ tags = ["bar", "panel", "launcher", "ai", "productivity", "utility"]
 [[plugin]]
 id = "vn1k/cursor"
 name = "Cursor"
-version = "1.0.0"
-updated_at = 1790164936
+version = "1.0.7"
+updated_at = 1792865653
 added_at = 1790164936
 author = "Vn1k"
 license = "MIT"
 icon = "pointer"
 description = "Pick, import and build cursor themes, then apply them everywhere at once."
+plugin_api = 22
+tags = ["panel", "shortcut", "theming", "utility", "niri", "hyprland", "sway", "mangowc", "umbriel"]
+
+[[plugin.release]]
 plugin_api = 8
-tags = ["panel", "shortcut", "theming", "utility", "niri", "hyprland", "sway", "mangowc"]
+version = "1.0.0"
+updated_at = 1790164936
+rev = "9b3d8963c2572f4d52786852c065067f6d1998a6"
 
 [[plugin]]
 id = "borderliner/jalali_calendar"
