@@ -4026,13 +4026,13 @@ tags = ["hyprland", "bar"]
 [[plugin]]
 id = "abuamar142/murattal"
 name = "Murattal"
-version = "0.1.0"
-updated_at = 1792859138
+version = "0.3.0"
+updated_at = 1792938408
 added_at = 1792859138
 author = "abuamar142"
 license = "MIT"
 icon = "music-note"
-description = "Stream murottal Al-Qur'an per surah and qari from mp3quran.net via mpv."
+description = "Stream murottal Al-Qur'an per surah or per ayah, with Arabic text and translation, via mpv."
 plugin_api = 24
 tags = ["bar", "panel", "service", "launcher", "audio", "media", "music"]
 
