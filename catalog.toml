@@ -1160,8 +1160,8 @@ tags = ["bar", "panel", "mangowc", "utility"]
 [[plugin]]
 id = "maddingo/hypr-layout-switcher"
 name = "Hyprland Layout Switcher"
-version = "0.1.1"
-updated_at = 1787781204
+version = "0.2.0"
+updated_at = 1792961957
 added_at = 1785812073
 author = "maddingo"
 license = "MIT"
@@ -1567,8 +1567,8 @@ tags = ["bar", "panel", "service", "network", "utility", "indicator"]
 [[plugin]]
 id = "rylos/tailnet"
 name = "Tailnet"
-version = "2.1.0"
-updated_at = 1786904351
+version = "2.2.0"
+updated_at = 1792961988
 added_at = 1786904351
 author = "Marco Ziliani"
 license = "MIT"
