@@ -277,6 +277,7 @@ body:
         - tmux-provider
         - todo
         - todoist
+        - todoist-manager
         - topgrade-wrapper
         - udiskie
         - um5606_fan_state
