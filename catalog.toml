@@ -4119,3 +4119,16 @@ icon = "chart-donut-3"
 description = "Quotas, usage, sessions and an activity heatmap from your Token Monitor Hub."
 plugin_api = 32
 tags = ["bar", "panel", "service", "ai", "utility"]
+
+[[plugin]]
+id = "quantinium/competitive-programming-contest-tracker"
+name = "Competitive Programming Contest Tracker"
+version = "0.1.0"
+updated_at = 1792962600
+added_at = 1792962600
+author = "quantinium"
+license = "MIT"
+icon = "trophy"
+description = "Codeforces, LeetCode, CodeChef and AtCoder contest tracker with reminders and an upsolving list."
+plugin_api = 32
+tags = ["productivity"]
