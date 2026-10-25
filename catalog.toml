@@ -4100,3 +4100,16 @@ icon = "checklist"
 description = "Todoist tasks in Noctalia"
 plugin_api = 33
 tags = ["productivity", "panel", "launcher", "bar"]
+
+[[plugin]]
+id = "shangshui0302/token-monitor"
+name = "Token Monitor"
+version = "0.1.0"
+updated_at = 1792939007
+added_at = 1792939007
+author = "Shangshui0302"
+license = "MIT"
+icon = "chart-donut-3"
+description = "Quotas, usage, sessions and an activity heatmap from your Token Monitor Hub."
+plugin_api = 32
+tags = ["bar", "panel", "service", "ai", "utility"]
