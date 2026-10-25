@@ -278,6 +278,7 @@ body:
         - todo
         - todoist
         - todoist-manager
+        - token-monitor
         - topgrade-wrapper
         - udiskie
         - um5606_fan_state
