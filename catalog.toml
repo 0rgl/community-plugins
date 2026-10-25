@@ -1115,15 +1115,21 @@ tags = ["panel", "fun", "network", "privacy", "productivity", "utility"]
 [[plugin]]
 id = "alexander/screen-toolkit"
 name = "Screen Toolkit"
-version = "1.5.4"
-updated_at = 1792768758
+version = "2.0.0"
+updated_at = 1792962214
 added_at = 1785759728
 author = "alexander"
 license = "MIT"
 icon = "crosshair"
 description = "Screen tools: color picker, OCR, QR, palette, lens, annotate, measure, and recording."
-plugin_api = 13
+plugin_api = 42
 tags = ["recording", "utility", "bar", "panel", "shortcut", "service", "hyprland", "niri", "sway"]
+
+[[plugin.release]]
+plugin_api = 13
+version = "1.5.4"
+updated_at = 1792768758
+rev = "ab96fe87ec7af6d56ffd95465d25fee419cb3411"
 
 [[plugin.release]]
 plugin_api = 9
