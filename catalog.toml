@@ -2002,8 +2002,8 @@ tags = ["desktop", "clock", "time", "utility"]
 [[plugin]]
 id = "icefish/phone-operate"
 name = "Phone Operate"
-version = "1.0.3"
-updated_at = 1792983494
+version = "1.0.4"
+updated_at = 1793025854
 added_at = 1787152852
 author = "icefish"
 license = "MIT"
