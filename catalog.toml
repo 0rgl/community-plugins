@@ -244,15 +244,21 @@ tags = ["hardware"]
 [[plugin]]
 id = "rxtsel/portctl"
 name = "Portctl"
-version = "0.2.3"
-updated_at = 1792287644
+version = "0.2.4"
+updated_at = 1793026833
 added_at = 1784203448
 author = "Cristhian Melo"
 license = "MIT"
 icon = "plug"
 description = "Inspect and kill listening TCP/UDP ports."
-plugin_api = 9
+plugin_api = 43
 tags = ["network", "utility", "development", "indicator", "bar", "panel", "service"]
+
+[[plugin.release]]
+plugin_api = 9
+version = "0.2.3"
+updated_at = 1792287644
+rev = "11641ac2c772491b46547035e1aee7dab6b58bff"
 
 [[plugin.release]]
 plugin_api = 3
@@ -5074,3 +5080,16 @@ plugin_api = 32
 version = "0.1.0"
 updated_at = 1792962600
 rev = "adf2587b57874a5b626ade6375ee9734b309843b"
+
+[[plugin]]
+id = "rylos/rbw-enhanced"
+name = "rbw-enhanced"
+version = "1.1.2"
+updated_at = 1793056609
+added_at = 1793056609
+author = "Marco Ziliani"
+license = "MIT"
+icon = "lock"
+description = "Bitwarden vault status for rbw-enhanced: see if it is unlocked, then unlock, lock, sync or open rbw tui."
+plugin_api = 43
+tags = ["bar", "panel", "service", "privacy", "utility"]
