@@ -5106,3 +5106,16 @@ icon = "lock-share"
 description = "Securely send and receive files, folders and clipboard with any LocalSend devices."
 plugin_api = 43
 tags = ["network", "utility", "bar", "panel", "launcher", "service"]
+
+[[plugin]]
+id = "ankitkumar/shloka"
+name = "Shloka"
+version = "0.1.0"
+updated_at = 1793058663
+added_at = 1793058663
+author = "AnkitKumar"
+license = "GPL-3.0-or-later"
+icon = "book"
+description = "A customizable Bhagavad Gita verse desktop widget."
+plugin_api = 12
+tags = ["desktop", "utility"]
