@@ -5093,3 +5093,16 @@ icon = "lock"
 description = "Bitwarden vault status for rbw-enhanced: see if it is unlocked, then unlock, lock, sync or open rbw tui."
 plugin_api = 43
 tags = ["bar", "panel", "service", "privacy", "utility"]
+
+[[plugin]]
+id = "0rgl/localsend-plus"
+name = "LocalSend Plus"
+version = "1.2.0"
+updated_at = 1793058341
+added_at = 1793058341
+author = "0rgl"
+license = "MIT"
+icon = "lock-share"
+description = "Securely send and receive files, folders and clipboard with any LocalSend devices."
+plugin_api = 43
+tags = ["network", "utility", "bar", "panel", "launcher", "service"]
