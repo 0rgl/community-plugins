@@ -143,6 +143,7 @@ body:
         - link-ip-monitor
         - llamanager
         - localsend
+        - localsend-plus
         - lrc
         - lunar-calendar
         - lunar-workspaces
