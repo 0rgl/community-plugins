@@ -247,6 +247,7 @@ body:
         - shell-command
         - shelly
         - shift
+        - shloka
         - sing-box-status
         - sony_headphones
         - soundcore-buds
