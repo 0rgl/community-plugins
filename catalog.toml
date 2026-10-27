@@ -5163,3 +5163,16 @@ icon = "cards"
 description = "MTG-style animated card-deck wallpaper picker inspired by qs-wallpaperpicker."
 plugin_api = 43
 tags = ["wallpaper", "animation", "theming", "desktop"]
+
+[[plugin]]
+id = "dmopp/settings-to-nix"
+name = "Settings to Nix"
+version = "1.0.0"
+updated_at = 1793111197
+added_at = 1793111197
+author = "dMopp"
+license = "MIT"
+icon = "snowflake"
+description = "Backs up your Noctalia GUI settings as a Nix file that restores them with one nix-build command."
+plugin_api = 24
+tags = ["shortcut", "service", "nixos", "utility"]
