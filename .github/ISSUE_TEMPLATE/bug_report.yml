@@ -241,6 +241,7 @@ body:
         - saved-desktop-widgets
         - screen-capture
         - screen-toolkit
+        - settings-to-nix
         - share-wifi
         - sharednd
         - shelf
