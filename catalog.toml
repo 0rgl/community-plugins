@@ -4924,8 +4924,8 @@ tags = ["panel", "ai", "productivity", "hyprland"]
 [[plugin]]
 id = "ak4duy/umami"
 name = "Umami"
-version = "1.0.1"
-updated_at = 1792983494
+version = "1.0.2"
+updated_at = 1793110514
 added_at = 1792782798
 author = "ak4duy"
 license = "MIT"
