@@ -3378,15 +3378,15 @@ tags = ["ai", "wallpaper", "desktop"]
 [[plugin]]
 id = "nilsonlinux/world-radio"
 name = "World Radio"
-version = "1.0.8"
-updated_at = 1792983494
+version = "1.2.2"
+updated_at = 1793061396
 added_at = 1789561212
 author = "Nilsonlinux"
 license = "MIT"
 icon = "radio"
 description = "Browse thousands of radio stations from around the world with country flags."
 plugin_api = 43
-tags = ["audio", "music", "network", "panel", "bar", "utility"]
+tags = ["audio", "music", "network", "panel", "bar", "utility", "service"]
 
 [[plugin.release]]
 plugin_api = 24
@@ -5137,3 +5137,16 @@ icon = "book"
 description = "A customizable Bhagavad Gita verse desktop widget."
 plugin_api = 12
 tags = ["desktop", "utility"]
+
+[[plugin]]
+id = "soulmanyes/workspace-restore"
+name = "Workspace Restore"
+version = "1.1.0"
+updated_at = 1793061365
+added_at = 1793061365
+author = "Soulmanyes"
+license = "CC0-1.0"
+icon = "layout-grid"
+description = "Give each Hyprland workspace a list of apps; reopen and move them back at login or with one click."
+plugin_api = 43
+tags = ["hyprland", "bar", "panel", "productivity"]
