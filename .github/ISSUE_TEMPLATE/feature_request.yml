@@ -311,6 +311,7 @@ body:
         - wfmu
         - wireview-pro-ii
         - wl-screen-mirror
+        - workspace-restore
         - world-radio
         - xwayland
         - youtube-search
