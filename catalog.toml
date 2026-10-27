@@ -5150,3 +5150,16 @@ icon = "layout-grid"
 description = "Give each Hyprland workspace a list of apps; reopen and move them back at login or with one click."
 plugin_api = 43
 tags = ["hyprland", "bar", "panel", "productivity"]
+
+[[plugin]]
+id = "ishan0121/wallpaper-deck"
+name = "Wallpaper Deck"
+version = "1.0.0"
+updated_at = 1793071179
+added_at = 1793071179
+author = "Ishan0121"
+license = "GPL-3.0"
+icon = "cards"
+description = "MTG-style animated card-deck wallpaper picker inspired by qs-wallpaperpicker."
+plugin_api = 43
+tags = ["wallpaper", "animation", "theming", "desktop"]
