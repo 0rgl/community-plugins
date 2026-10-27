@@ -37,6 +37,7 @@ body:
         - als-brightness
         - ambient-sounds
         - anilist
+        - arch-audit
         - arch-updater
         - ask-claude
         - asus-fan
