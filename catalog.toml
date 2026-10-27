@@ -5215,3 +5215,16 @@ icon = "headphones"
 description = "Управление шумоподавлением и батареей для наушников серии HONOR CHOICE (X5, X5 Pro, X3, X3 Lite, X2, Moecen)"
 plugin_api = 24
 tags = ["audio", "bar", "panel", "service", "hardware", "indicator"]
+
+[[plugin]]
+id = "cero800/arch-audit"
+name = "Arch Audit"
+version = "0.1.0"
+updated_at = 1793133598
+added_at = 1793133598
+author = "cero800"
+license = "MIT"
+icon = "shield-exclamation"
+description = "Audit installed Arch packages against the Arch Security Team advisories, with severity triage and new-CVE alerts."
+plugin_api = 43
+tags = ["arch", "bar", "panel", "service", "indicator", "system", "utility"]
