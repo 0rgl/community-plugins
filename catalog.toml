@@ -1717,8 +1717,8 @@ tags = ["launcher", "system", "utility"]
 [[plugin]]
 id = "decksters-lab/palette-creator"
 name = "Palette Creator"
-version = "1.0.1"
-updated_at = 1792983494
+version = "1.0.2"
+updated_at = 1793110598
 added_at = 1786747169
 author = "decksters-lab"
 license = "MIT"
@@ -4381,8 +4381,8 @@ tags = ["bar", "launcher", "panel", "utility"]
 [[plugin]]
 id = "miguelfm/ai-triage"
 name = "AI Triage"
-version = "1.6.3"
-updated_at = 1792983494
+version = "1.8.0"
+updated_at = 1793110625
 added_at = 1791591274
 author = "miguelfm"
 license = "MIT"
