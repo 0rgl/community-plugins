@@ -817,8 +817,8 @@ rev = "cd80c56409bbee83f8d033d8753cfb3065069bef"
 [[plugin]]
 id = "k4n4t4/hypr-submap"
 name = "Hyprland Submap"
-version = "1.0.0"
-updated_at = 1785069457
+version = "1.0.1"
+updated_at = 1793133496
 added_at = 1785069457
 author = "k4n4t4"
 license = "MIT"
@@ -5202,3 +5202,16 @@ icon = "router"
 description = "Download and upload rate of an OPNsense interface in the bar, styled like the built-in network widgets."
 plugin_api = 42
 tags = ["bar", "panel", "service", "network", "indicator"]
+
+[[plugin]]
+id = "nezerkill/honor-earbuds"
+name = "Honor Earbuds"
+version = "1.0.0"
+updated_at = 1793133516
+added_at = 1793133516
+author = "nezerkill"
+license = "MIT"
+icon = "headphones"
+description = "Управление шумоподавлением и батареей для наушников серии HONOR CHOICE (X5, X5 Pro, X3, X3 Lite, X2, Moecen)"
+plugin_api = 24
+tags = ["audio", "bar", "panel", "service", "hardware", "indicator"]
