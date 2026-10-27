@@ -4015,15 +4015,21 @@ rev = "bf83688c1343219f49a24f4415602b5fa3ee1f4e"
 [[plugin]]
 id = "zhangdm/als-brightness"
 name = "ALS Brightness"
-version = "0.7.0"
-updated_at = 1792156935
+version = "0.8.0"
+updated_at = 1793060805
 added_at = 1790805024
 author = "zhangdm"
 license = "MIT"
 icon = "sun"
 description = "Adapts panel brightness and keyboard backlight to ambient light, and hands control back the moment you touch the keys."
-plugin_api = 24
+plugin_api = 43
 tags = ["hardware", "system"]
+
+[[plugin.release]]
+plugin_api = 24
+version = "0.7.0"
+updated_at = 1792156935
+rev = "8b07dd0b74cd2d21b418b0ae0a0b872cfe23719d"
 
 [[plugin]]
 id = "ismay/sway-mode"
@@ -4118,15 +4124,21 @@ tags = ["bar", "panel", "gaming"]
 [[plugin]]
 id = "zhangdm-520/niri-media-idle"
 name = "Niri Media Idle"
-version = "1.2.0"
-updated_at = 1791146770
+version = "1.3.0"
+updated_at = 1793060761
 added_at = 1791146770
 author = "ZhangDM-520"
 license = "MIT"
 icon = "player-play"
 description = "Control the bundled media-idle bridge without exposing player details or changing idle policy."
-plugin_api = 30
+plugin_api = 43
 tags = ["bar", "indicator", "media", "niri", "service", "system", "utility", "video"]
+
+[[plugin.release]]
+plugin_api = 30
+version = "1.2.0"
+updated_at = 1791146770
+rev = "8154743d6db02123b68b75a90c3438781a76aab1"
 
 [[plugin]]
 id = "pmason314/rss-feeds"
@@ -4842,15 +4854,21 @@ rev = "4d2e9838f756ca4ebe5a599b76e3920f0650ff93"
 [[plugin]]
 id = "zhangdm/inhibit-idle-while-watching"
 name = "Inhibit Idle While Watching"
-version = "0.3.0"
-updated_at = 1792866009
+version = "0.4.0"
+updated_at = 1793060779
 added_at = 1792691474
 author = "zhangdm"
 license = "MIT"
 icon = "camera"
 description = "Checks for a face when idle is about to act and restarts the idle countdown while you keep watching."
-plugin_api = 24
+plugin_api = 43
 tags = ["service", "hardware", "privacy", "system", "utility"]
+
+[[plugin.release]]
+plugin_api = 24
+version = "0.3.0"
+updated_at = 1792866009
+rev = "a8e7a7160126e75943bd63a225599a2a16715c6e"
 
 [[plugin]]
 id = "nightwatch75/keysmith"
