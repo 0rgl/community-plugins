@@ -67,6 +67,7 @@ body:
         - cider
         - claude-cockpit
         - claude-companion
+        - claude-operator
         - claude-sessions
         - claudecode
         - cmd-runner
