@@ -121,6 +121,7 @@ body:
         - hypr-submap
         - hyprland-settings
         - hyprland-visual-editor
+        - icons
         - ideapad-conservation-mode
         - iio_lock
         - imagemagick-clock
