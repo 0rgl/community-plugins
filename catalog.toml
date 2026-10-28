@@ -5180,8 +5180,8 @@ tags = ["shortcut", "service", "nixos", "utility"]
 [[plugin]]
 id = "edward/claude-operator"
 name = "Claude Operator"
-version = "0.7.3"
-updated_at = 1793111940
+version = "0.7.4"
+updated_at = 1793226368
 added_at = 1793111940
 author = "edward"
 license = "MIT"
