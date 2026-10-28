@@ -3333,8 +3333,8 @@ rev = "9e697553d311b52effdd88f52d4677e4b3235a12"
 [[plugin]]
 id = "shangshui0302/github-kanban"
 name = "GitHub Kanban"
-version = "0.2.6"
-updated_at = 1792983494
+version = "0.2.7"
+updated_at = 1793187468
 added_at = 1789390542
 author = "Shangshui0302"
 license = "MIT"
