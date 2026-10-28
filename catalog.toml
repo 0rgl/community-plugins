@@ -2616,8 +2616,8 @@ rev = "0a0222e0cf411e5bf4a2706508f9cc41272c2453"
 [[plugin]]
 id = "redxtech/super-productivity"
 name = "Super Productivity"
-version = "2.0.1"
-updated_at = 1792983494
+version = "2.1.0"
+updated_at = 1793198251
 added_at = 1788400879
 author = "Gabe Dunn"
 license = "MIT"
