@@ -5206,15 +5206,21 @@ tags = ["bar", "panel", "service", "network", "indicator"]
 [[plugin]]
 id = "nezerkill/honor-earbuds"
 name = "Honor Earbuds"
-version = "1.0.0"
-updated_at = 1793133516
+version = "1.0.1"
+updated_at = 1793189290
 added_at = 1793133516
 author = "nezerkill"
 license = "MIT"
 icon = "headphones"
 description = "Управление шумоподавлением и батареей для наушников серии HONOR CHOICE (X5, X5 Pro, X3, X3 Lite, X2, Moecen)"
-plugin_api = 24
+plugin_api = 43
 tags = ["audio", "bar", "panel", "service", "hardware", "indicator"]
+
+[[plugin.release]]
+plugin_api = 24
+version = "1.0.0"
+updated_at = 1793133516
+rev = "17441a3047dd83396fe11c70bf32daae5254a5f6"
 
 [[plugin]]
 id = "cero800/arch-audit"
