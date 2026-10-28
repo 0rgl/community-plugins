@@ -5064,8 +5064,8 @@ rev = "c743f66b78dc9a7f96930629bdb9b28d0d499024"
 [[plugin]]
 id = "shangshui0302/token-monitor"
 name = "Token Monitor"
-version = "0.1.1"
-updated_at = 1792983494
+version = "0.1.2"
+updated_at = 1793189419
 added_at = 1792939007
 author = "Shangshui0302"
 license = "MIT"
