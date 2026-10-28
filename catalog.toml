@@ -5228,3 +5228,16 @@ icon = "shield-exclamation"
 description = "Audit installed Arch packages against the Arch Security Team advisories, with severity triage and new-CVE alerts."
 plugin_api = 43
 tags = ["arch", "bar", "panel", "service", "indicator", "system", "utility"]
+
+[[plugin]]
+id = "vn1k/icons"
+name = "Icons"
+version = "1.0.0"
+updated_at = 1793187355
+added_at = 1793187355
+author = "Vn1k"
+license = "MIT"
+icon = "icons"
+description = "Pick, preview and install icon themes, browse gnome-look.org, and recolor Papirus folders."
+plugin_api = 43
+tags = ["panel", "shortcut", "theming", "utility"]
